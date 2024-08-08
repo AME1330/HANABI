@@ -1,0 +1,6 @@
+﻿  simple_calculator.c
+C:\Users\AME\source\repos\Simple_Calculator_on_Embedded_System\Simple_Calculator_on_Embedded_System\simple_calculator.c(47,14): warning C4047: “=”:“char”与“void *”的间接级别不同
+C:\Users\AME\source\repos\Simple_Calculator_on_Embedded_System\Simple_Calculator_on_Embedded_System\simple_calculator.c(48,23): warning C4047: “=”:“int”与“void *”的间接级别不同
+C:\Users\AME\source\repos\Simple_Calculator_on_Embedded_System\Simple_Calculator_on_Embedded_System\simple_calculator.c(203,26): warning C4047: “=”:“char”与“void *”的间接级别不同
+C:\Users\AME\source\repos\Simple_Calculator_on_Embedded_System\Simple_Calculator_on_Embedded_System\simple_calculator.c(204,35): warning C4047: “=”:“int”与“void *”的间接级别不同
+  Simple_Calculator_on_Embedded_System.vcxproj -> C:\Users\AME\source\repos\Simple_Calculator_on_Embedded_System\x64\Debug\Simple_Calculator_on_Embedded_System.exe
